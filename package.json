@@ -11,8 +11,11 @@
     "validate": "pnpm type-check && pnpm lint"
   },
   "dependencies": {
+    "@circles-sdk/abi-v1": "^0.29.0",
+    "@circles-sdk/abi-v2": "^0.29.0",
     "@circles-sdk/adapter-ethers": "^0.29.0",
     "@circles-sdk/data": "^0.29.0",
+    "@circles-sdk/pathfinder": "^0.29.0",
     "@circles-sdk/profiles": "^0.29.0",
     "@circles-sdk/sdk": "^0.29.0",
     "@circles-sdk/utils": "^0.29.0",
